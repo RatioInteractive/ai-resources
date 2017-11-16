@@ -19,15 +19,15 @@ Curated List of AI and Machine Learning Resources
 
 ## Online Books
 
-Neural Networks and Deep Learning
+**Neural Networks and Deep Learning**
 > http://neuralnetworksanddeeplearning.com/
 
 > https://github.com/mnielsen/neural-networks-and-deep-learning
 
 ## Online Courses
 
-Machine Learning by Andrew Ng
+**Machine Learning by Andrew Ng**
 > https://www.coursera.org/learn/machine-learning
 
-Intro to Machine Learning
+**Intro to Machine Learning**
 > https://www.udacity.com/course/intro-to-machine-learning--ud120
