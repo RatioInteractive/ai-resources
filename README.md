@@ -1,6 +1,8 @@
 # AI-Resources
 Curated List of AI and Machine Learning Resources
 
+![AI, Machine Learning, Data Science Diagram](/images/ai_data-science-diagram.jpg)
+
 ## Videos
 
 **Deep Learning**
